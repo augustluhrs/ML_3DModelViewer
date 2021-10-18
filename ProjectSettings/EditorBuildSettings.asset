@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_3DModelViewer/Scenes/3dModelViewer.unity
+    guid: c345e99c1a021924fa7cadd188f60050
+  m_configObjects:
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 61446c38041724f1291f132999b1c50a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3f286cd3b2ec34236bd561c21f70314f, type: 2}
